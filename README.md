@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @John-Mack
+- 👀 I’m interested in learning and becoming Iron-Man (but i'm just a spider-man)
+- 🌱 I’m currently learning about Arduino and LLM.
+- 💞️ I’m looking for a "mentor", maybe just someone to point me in the right direction
+- 📫 How to reach me : i'd prefer not, but if necessary send me a message here and i'll send you my contact info in some way or another
+- ⚡ Fun fact: I'm a lone coder, my entourage is very much NOT the kind to do code or anything tech related, i've never joined any tech communities, everything i've learnt was all by myself, raw dogging codes on Notepad++ and a couples of tutorials
+
+
