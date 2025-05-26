@@ -4,4 +4,4 @@
 - 💞️ I’m looking for a "mentor", maybe just someone to point me in the right direction
 - 📫 How to reach me : i'd prefer not, just branch my stuff if you want to show me something
 - ⚡ Fun fact: I'm a lone coder, my entourage is very much NOT the kind to do code or anything tech related, i've never joined any tech communities, everything i've learnt was all by myself, raw dogging codes on Notepad++ and a couples of tutorials
-- 🤡 Current hyperfocus : Runescape (EH I KNOW, and it's my first char) but nobody can stop me
+- 🤡 Current hyperfocus : 
